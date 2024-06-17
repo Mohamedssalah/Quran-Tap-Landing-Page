@@ -3,7 +3,7 @@
 
 ## Live Demo
 
-Check out the live demo of the project [[here](https://mohamedssalah.github.io/Personal-website/)](#).
+Check out the live demo of the project [[here][(https://mohamedssalah.github.io/Quran-Tap-Landing-Page/)]
 ## Installation
 
 To get a local copy up and running, follow these simple steps:
